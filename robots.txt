@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://panzerchris.github.io/sync-test/sitemap.xml
